@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     // MARK: UISceneSession Lifecycle
     func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
-       // Comment changed
+       // Comment changed Srini
         return UISceneConfiguration(name: "Default Configuration adfasdfasfd ", sessionRole: connectingSceneSession.role)
     }
 
